@@ -18,7 +18,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197
 
 https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/0b7dfe7d-88ba-41d6-a640-d3bc761c30d3
 
-* As honorable mention, @Uzo2005 implemented minigolf in python in 3382 bytes, this is a really unusual language for code golf so it's interesting to see how small code looks! https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/4
+* As honorable mention, @Uzo2005 implemented minigolf in nim in 3382 bytes, this is a really unusual language for code golf so it's interesting to see how small code looks! https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/4
 
 https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/2a83c025-eba8-452e-87d8-a4423c230e5f
 
