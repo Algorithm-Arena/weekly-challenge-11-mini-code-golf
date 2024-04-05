@@ -4,6 +4,29 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/c825b275-d1d4-4ee6-9454-9dfa41621fbe">
 
+### Winners:
+
+* In first place, @BenjaminAster wins $100. Insane how in 1099 bytes he got a fully working minigolf with physics and 52 levels! Using randomly generated circles for obstacles is so clever. https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/5
+
+https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/e6a80777-db72-464c-8671-f4dabaa62432
+
+* In second place, @nikpundik wins $60. I was confused when I read the description of a console based mini golf in 941 bytes. But it turns out to be really clever and fun! https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/2
+
+https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/d50a3487-f8f3-48b6-a185-86f80ca07c36
+
+* In third place, @are wins $40. When I created the challenge I was only thinking about 2d surfaces but this submission in 3048 bytes also implement hills! https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/1
+
+https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/0b7dfe7d-88ba-41d6-a640-d3bc761c30d3
+
+* As honorable mention, @Uzo2005 implemented minigolf in python in 3382 bytes, this is a really unusual language for code golf so it's interesting to see how small code looks! https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/4
+
+https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/2a83c025-eba8-452e-87d8-a4423c230e5f
+
+* As honorable mention, @evgenyvinnik took an existing minigolf game and minified it to 23393 bytes. This is a good way to learn code golfing skills! https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/issues/3
+
+https://github.com/Algorithm-Arena/weekly-challenge-11-mini-code-golf/assets/197597/483a7195-5fc7-4aae-ae30-a34886a571f3
+
+
 ### Prizes:
 * Winner: $100
 * 2nd: $60
